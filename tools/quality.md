@@ -3,6 +3,10 @@
  We'll analyze your README, score it, and provide recommendations for improvement across four categories.
  http://demos.algorithmia.com/github-readme-analyzer/
 
+#### Feed Me ReadMes
+Analyze your Readmes, because, yeah!
+https://github.com/LappleApple/feedmereadmes
+
 #### How to write better Readmes
 https://betta.io/blog/2017/02/07/developer-experience-github-readmes/
 
