@@ -10,3 +10,8 @@ example: https://github.com/benbalter/gman/pull/133#issuecomment-213111334
 
 #### Commit and repo inspectors
 [list that i share with govt all the time]
+
+
+https://github.com/awslabs/git-secrets
+
+safe-commit
