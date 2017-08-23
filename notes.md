@@ -1,3 +1,7 @@
+## Running a reverse auction for Open Source Contributions
+The US Government runs an Agile Delivery Services contract as a way to crowdsource contributions to some of their open source projects. You can read more about it (and see it in action) here: https://ads.18f.gov/
+
+
 BBC developing in the open:
 http://www.reload.me.uk/2017/developing-in-the-open/
 Ministry of Justice Develop in the open:
