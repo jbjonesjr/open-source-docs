@@ -133,3 +133,15 @@ How to justify the cost of open source to management: https://developer.capitalo
 
 
 > There are advantages in the total cost of ownership of IT systems over the long run. Plus, it’s great being able to fix things yourself and not being tied to a specific vendor. Vendor lock-in is a huge deal in many technical organizations.
+
+
+
+## Comcast
+http://labs.comcast.com/comcast-launches-updated-github-page-for-open-source-projects
+https://comcast.github.io
+
+Who and What we are
+
+Showcase for projects
+General stats and highlights
+CTA: > Like what you see? Come work with us!
