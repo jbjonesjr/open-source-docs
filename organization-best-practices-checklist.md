@@ -7,5 +7,5 @@ Below is a checklist of sorts that you can use to set-up your GitHub Organizatio
   - NOTE: I added internal feedback on your request to support a way to verify yourself as your org owner.
 - [ ] Add welcome readme to serve as FAQ, contact info, and other basic rules of engagement for your account.
 - [ ] Add website (can be hosted by GitHub Pages) to provide a non-GitHub presence for your Enterprise.
-   -  Can mirror sites such as https://netflix.github.io/, https://developer.github.com, https://opensource.google.com/, or https://spotify.github.io/.
+   -  Can mirror sites such as https://netflix.github.io/, https://developer.github.com, https://opensource.google.com/, or https://spotify.github.io/, https://comcast.github.io
    - GitHub Pages lets you iterate through the repositories in your Organization to easily make a dynamic website for listing your GitHub Projects.
