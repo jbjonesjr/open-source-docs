@@ -19,8 +19,11 @@ https://github.com/jfredrickson5/github-watchdog
 
 #### Poirot
 https://github.com/emanuelfeld/poirot
-#### Seekret
-https://github.com/apuigsech/seekret
+
+#### Git-Seekret
+https://github.com/apuigsech/git-seekret
+> git-seekret is a cross-platform, open source, Golang application through a pre-commit git hook, that can inspect the files that are staged for the commit and if there is anything found in either the files or the commit message that matches any of the enabled rules it will prevent that commit from making its way into your repository. It also can scan existing commits and notify you of any sensitive information that has already made its way into your repository. [from 18F blog [announcement post](https://18f.gsa.gov/2017/09/26/automated-scanning-for-sensitive-information/)]
+
 
 #### Clouseau
 Search your repository's git history for undesirable text patterns such as passwords, ssh keys and othe personal identifiable information
