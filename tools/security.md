@@ -29,6 +29,10 @@ https://github.com/apuigsech/git-seekret
 Search your repository's git history for undesirable text patterns such as passwords, ssh keys and othe personal identifiable information
 https://github.com/cfpb/clouseau
 
+##### Repo Security Scanner
+CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+https://github.com/UKHomeOffice/repo-security-scanner
+
 
 #### Git Secrets for AWS
 Prevents you from committing secrets and credentials into git repositories
