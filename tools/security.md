@@ -8,6 +8,18 @@ Enforces contributing guidelines via status checks and protected branches
 https://gitmagic.io/
 example: https://github.com/benbalter/gman/pull/133#issuecomment-213111334
 
+#### DetectSecrets
+
+detect-secrets is an aptly named module for (surprise, surprise) detecting secrets within a code base.
+
+However, unlike other similar packages that solely focus on finding secrets, this package is designed with the enterprise client in mind: providing a backwards compatible, systematic means of:
+
+1. Preventing new secrets from entering the code base,
+1. Detecting if such preventions are explicitly bypassed, and
+1. Providing a checklist of secrets to roll, and migrate off to a more secure storage.
+
+https://github.com/Yelp/detect-secrets
+
 ## Commit and repo inspectors
 
 #### Project-Migration
